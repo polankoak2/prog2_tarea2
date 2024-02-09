@@ -1,0 +1,5 @@
+D:\prog2\tarea2\tarea2\obj\Release\tarea2.vbproj.AssemblyReference.cache
+D:\prog2\tarea2\tarea2\obj\Release\tarea2.Form1.resources
+D:\prog2\tarea2\tarea2\obj\Release\tarea2.Resources.resources
+D:\prog2\tarea2\tarea2\obj\Release\tarea2.vbproj.GenerateResource.cache
+D:\prog2\tarea2\tarea2\obj\Release\tarea2.vbproj.CoreCompileInputs.cache
